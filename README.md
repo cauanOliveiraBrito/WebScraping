@@ -12,7 +12,7 @@ Ex.: Você pode criar um software que coleta todos os títulos de notícias de v
 
 ## O que esse programa é capaz de fazer?
 
-Lê um arquivo .HTML e coleta todas as URLs que estejam dentro de tags <a href=”[url]”>.
+Lê um arquivo .HTML e coleta todas as URLs.
 
 Essas URLs são coletadas e salvas dentro de um arquivo CSV.
 
